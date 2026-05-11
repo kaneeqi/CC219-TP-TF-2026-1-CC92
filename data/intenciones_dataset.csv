@@ -1,0 +1,97 @@
+texto,intencion
+¿Tienen el iPhone 15 Pro en 256GB?,consulta_producto
+¿Tienen stock del 16 Pro Max?,consulta_producto
+¿Le hace al iPhone 13 el case MagSafe?,consulta_producto
+¿En qué colores tienen el iPhone 16?,consulta_producto
+Hola ¿tienen el 11 reacondicionado?,consulta_producto
+¿La mica antiespía le hace al 15 Pro Max?,consulta_producto
+¿Tienen cases para el 14 Plus?,consulta_producto
+¿Ese case transparente es para todos los modelos?,consulta_producto
+¿Tienen mica completa para el iPhone 14?,consulta_producto
+¿El case MagSafe le hace al 13 Pro?,consulta_producto
+¿Qué accesorios tienen para el iPhone 12?,consulta_producto
+¿Tienen protector para el iPhone 13 mini?,consulta_producto
+¿A cuánto me sale el iPhone 15?,consulta_precio
+¿Cuánto está la mica antiespía?,consulta_precio
+¿A cuánto el case MagSafe para el 14?,consulta_precio
+¿Hay descuento si llevo el cel con case y mica?,consulta_precio
+¿Cuánto me sale el iPhone 16 Pro de 128?,consulta_precio
+¿A cuánto la mica completa para el 14 Pro?,consulta_precio
+¿Tienen alguna promo por cantidad?,consulta_precio
+¿Cuánto está el iPhone 12 reacondicionado?,consulta_precio
+¿A cuánto me saldría el 16 Pro Max 256GB?,consulta_precio
+¿Precio del case transparente para el 15?,consulta_precio
+¿Tienen algún precio especial para empresas?,consulta_precio
+¿A cuánto me sale la mica normal para el 13?,consulta_precio
+¿Cuánto me sale cambiar la batería de mi iPhone 13?,consulta_servicio_tecnico
+Mi pantalla está quiñada ¿cuánto me cobran?,consulta_servicio_tecnico
+¿Hacen diagnóstico? Mi cel no prende,consulta_servicio_tecnico
+¿Cuánto demoran en cambiar una pantalla rajada?,consulta_servicio_tecnico
+Mi cel se mojó ¿pueden revisarlo?,consulta_servicio_tecnico
+¿Hacen cambio de batería el mismo día?,consulta_servicio_tecnico
+¿Cuánto me cuesta el diagnóstico?,consulta_servicio_tecnico
+¿Trabajan con garantía en las reparaciones?,consulta_servicio_tecnico
+¿Cambian la cámara trasera del iPhone 11?,consulta_servicio_tecnico
+Mi cel cayó y la pantalla quedó rajada ¿cuánto me sale arreglarlo?,consulta_servicio_tecnico
+¿Arreglan el Touch ID que dejó de funcionar?,consulta_servicio_tecnico
+¿Cuánto está el cambio de pantalla para el iPhone 14?,consulta_servicio_tecnico
+Buenos días dejé mi cel ayer para cambio de pantalla ¿ya está listo?,seguimiento_reparacion
+¿Cuándo estará lista mi reparación?,seguimiento_reparacion
+Dejé mi iPhone 13 para diagnóstico el lunes ¿ya tienen resultado?,seguimiento_reparacion
+Ya son 3 días y no me han llamado ¿qué pasó con mi cel?,seguimiento_reparacion
+Hola ¿a qué hora puedo recoger mi iPhone?,seguimiento_reparacion
+¿Cuánto tiempo más falta para que esté listo?,seguimiento_reparacion
+Dejé mi celular el viernes ¿ya llegaron los repuestos?,seguimiento_reparacion
+¿Me pueden avisar cuando esté lista la reparación?,seguimiento_reparacion
+¿A qué número me llaman cuando esté listo?,seguimiento_reparacion
+Dejé mi cel hace 4 días y no sé nada ¿pueden decirme cómo va?,seguimiento_reparacion
+¿Ya revisaron mi iPhone? Lo dejé para diagnóstico,seguimiento_reparacion
+¿Puedo pasar a recoger hoy o todavía no está?,seguimiento_reparacion
+La mica que me vendieron se despegó al día siguiente,queja_producto_servicio
+El case que compré llegó con un rayón,queja_producto_servicio
+Me cambiaron la pantalla y quedó con una línea verde,queja_producto_servicio
+Me dijeron que estaría listo en 2 días y ya van 5,queja_producto_servicio
+La batería que me pusieron se acaba rapidísimo,queja_producto_servicio
+Me vendieron una mica que no le hace bien a mi iPhone,queja_producto_servicio
+El case MagSafe no carga los imanes no jalan bien,queja_producto_servicio
+Me entregaron mi cel con una mancha en pantalla que antes no tenía,queja_producto_servicio
+Compré un protector y ya se rajó sin haberlo golpeado,queja_producto_servicio
+Me prometieron llamarme y nunca lo hicieron,queja_producto_servicio
+La pantalla que me cambiaron no responde bien al tacto,queja_producto_servicio
+El case llegó sin la caja y sin accesorios,queja_producto_servicio
+Quiero cambiar la mica no le hace bien a mi iPhone 14,solicitud_garantia_cambio
+Me vendieron el case equivocado ¿me lo pueden cambiar?,solicitud_garantia_cambio
+La batería que me pusieron no dura nada ¿tienen garantía?,solicitud_garantia_cambio
+Compré el protector ayer y ya se levantó por las esquinas ¿me lo cambian?,solicitud_garantia_cambio
+Me cambiaron la pantalla y quedó mala quiero que la revisen de nuevo,solicitud_garantia_cambio
+El case llegó defectuoso ¿puedo devolverlo?,solicitud_garantia_cambio
+¿Cuánto tiempo de garantía tienen los accesorios?,solicitud_garantia_cambio
+Quiero que revisen mi cel la reparación no quedó bien,solicitud_garantia_cambio
+¿La garantía aplica si yo no lo golpeé?,solicitud_garantia_cambio
+Me dieron el case de un modelo diferente al que pedí,solicitud_garantia_cambio
+La mica se burbujeó sola ¿me la cambian?,solicitud_garantia_cambio
+¿Cómo hago para usar la garantía de la reparación?,solicitud_garantia_cambio
+Hola buen día,saludo_cierre
+Buenas tardes ¿están atendiendo?,saludo_cierre
+Hola ¿siguen abiertos?,saludo_cierre
+Gracias ya me queda claro,saludo_cierre
+Listo gracias por la info,saludo_cierre
+Ok perfecto voy a pasar por la tienda,saludo_cierre
+Muchas gracias hasta luego,saludo_cierre
+Hola ¿a qué hora abren hoy?,saludo_cierre
+Ok ya con eso está. Gracias,saludo_cierre
+Chau gracias por todo,saludo_cierre
+Hola buenas quería consultar algo,saludo_cierre
+Perfecto ya paso en la tarde,saludo_cierre
+Quiero hablar con el encargado por favor,escalamiento_urgente
+Esto es un abuso ya me tienen cansado,escalamiento_urgente
+¿Me pueden comunicar con alguien que me solucione esto?,escalamiento_urgente
+Necesito hablar con una persona no con un bot,escalamiento_urgente
+Exijo que me devuelvan mi dinero,escalamiento_urgente
+Voy a poner una queja formal si no me solucionan esto hoy,escalamiento_urgente
+Llevo una semana esperando y nadie me da respuesta,escalamiento_urgente
+¿Hay algún supervisor disponible?,escalamiento_urgente
+Necesito una solución ahora no mañana,escalamiento_urgente
+Si no me atienden bien voy a poner reseña en Google,escalamiento_urgente
+Quiero hablar con el dueño directamente,escalamiento_urgente
+Esto es pésimo servicio necesito una solución ya,escalamiento_urgente
