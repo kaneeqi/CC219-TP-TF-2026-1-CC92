@@ -1,0 +1,3 @@
+Modelo,"Balanced Accuracy (CV, media)","Balanced Accuracy (CV, std)","F1-macro (CV, media)","F1-macro (CV, std)",Tiempo (s)
+Regresión Logística,0.8058828124999999,0.001877984278733991,0.7537375967438452,0.0017980782309134824,6.4
+Naive Bayes Multinomial,0.64632421875,0.0025323649647025974,0.6742612734028866,0.003071380398688831,3.4

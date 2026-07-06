@@ -1,0 +1,7 @@
+Modelo,F1-macro
+"BETO (fine-tuned, train/test)",0.8874230140774259
+SVM Lineal,0.7828701717766144
+Regresión Logística,0.7442925161798621
+Naive Bayes Multinomial,0.721591092799973
+k-NN (k=3),0.6300378586553907
+Reglas + Diccionario,0.3455340635133596

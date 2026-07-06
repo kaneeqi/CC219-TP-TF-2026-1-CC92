@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas
+scikit-learn
+joblib
+# Opcionales, solo necesarios si se ejecuta localmente con los pesos de BETO:
+# torch
+# transformers

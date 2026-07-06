@@ -1,0 +1,9 @@
+# Pesos de BETO fine-tuneado: demasiado pesados para el repo publico (~440MB c/u).
+# Se generan localmente ejecutando code/notebooks/Modelado_Amazon_BETO.ipynb y
+# Modelado_Fonazo.ipynb (celda "Guardar modelo fine-tuneado").
+code/app/modelos/beto_amazon/
+code/app/modelos/beto_fonazo/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
