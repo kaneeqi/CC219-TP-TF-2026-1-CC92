@@ -63,41 +63,65 @@ code/
   resultados/
     figuras/    Todas las visualizaciones generadas (fig1 a fig27)
     tablas/     CSV con las métricas exactas de cada modelo y comparaciones
-  back/         API (FastAPI) + modelos entrenados — ver sección siguiente
-  front/        Interfaz de usuario (en desarrollo)
+  back/         API (FastAPI) + modelos entrenados
+  front/        Interfaz de chat (React + Vite)
+  docker-compose.yml   Orquesta ambos contenedores — ver "Puesta en marcha rápida"
 ```
 
 </details>
 
+### Puesta en marcha rápida (Docker)
+
+**Requisitos:** [Docker](https://docs.docker.com/get-docker/) y Docker Compose (incluido en Docker Desktop). No hace falta instalar Python ni Node — todo corre dentro de los contenedores.
+
+**1. Levantar los dos contenedores (back + front):**
+```bash
+cd code
+docker compose up --build
+```
+- Frontend (chat): [http://localhost:5173](http://localhost:5173)
+- Backend / Swagger interactivo: [http://localhost:8000/docs](http://localhost:8000/docs)
+
+Con esto ya funciona todo usando los **modelos clásicos** (Regresión Logística, Naive Bayes, SVM, XGBoost) — no requieren pesos adicionales, están incluidos en el repo (`code/back/modelos/*.joblib`).
+
+**2. (Opcional) Habilitar BETO** — el modelo con mejor desempeño validado, pero sus pesos (~420MB c/u) no se incluyen en el repositorio por tamaño. Se generan localmente:
+
+| Modelo | Notebook que lo genera | Carpeta de salida |
+|---|---|---|
+| Sentimiento | `code/notebooks/Mejoras_Sentimiento_v2.ipynb` | `code/back/modelos/beto_amazon_v2/` |
+| Intención | `code/notebooks/Mejoras_Intencion_DatosReales_v3.ipynb` | `code/back/modelos/beto_fonazo_v3/` |
+
+```bash
+cd code/back
+pip install -r requirements.txt          # o: pip install jupyter pandas torch transformers scikit-learn xgboost datasets
+jupyter nbconvert --to notebook --execute --inplace ../notebooks/Mejoras_Sentimiento_v2.ipynb
+jupyter nbconvert --to notebook --execute --inplace ../notebooks/Mejoras_Intencion_DatosReales_v3.ipynb
+```
+Funciona con o sin GPU (más lento en CPU). Una vez generadas esas dos carpetas dentro de `code/back/modelos/`, basta con volver a levantar el compose (`docker compose up --build`, paso 1) — la API detecta los pesos automáticamente y habilita "BETO" como opción en el selector de modelos del chat.
+
+**Apagar los contenedores:** `docker compose down` (desde `code/`).
+
 <details>
-<summary><b>Backend (code/back/)</b></summary>
+<summary><b>Correr el backend sin Docker (desarrollo local)</b></summary>
 
-API en FastAPI que expone los dos modelos (sentimiento e intención) como
-tareas independientes, cada una con su propio selector de modelo (clásico o
-BETO). Endpoints: `/analizar` (ambas tareas + regla de urgencia), `/intencion`,
-`/sentimiento`, `/modelos` (lista qué modelos están disponibles), `/salud`.
-
-**Correr localmente (sin Docker):**
 ```bash
 cd code/back
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
-Documentación interactiva (Swagger) en `http://localhost:8000/docs`.
+Documentación interactiva (Swagger) en `http://localhost:8000/docs`. Para regenerar los modelos clásicos desde cero: `python code/back/entrenar_modelos_clasicos.py`.
 
-**Correr con Docker:**
+</details>
+
+<details>
+<summary><b>Correr el frontend sin Docker (desarrollo local)</b></summary>
+
 ```bash
-cd code/back
-docker compose up --build
+cd code/front
+npm install
+npm run dev
 ```
-Los pesos de BETO (`beto_amazon_v2/`, `beto_fonazo_v3/`, ~420MB c/u) no se
-incluyen en el repositorio ni en la imagen — se montan como volumen en
-runtime (`docker-compose.yml`) y se generan localmente ejecutando los
-notebooks `Mejoras_Sentimiento_v2.ipynb` y `Mejoras_Intencion_DatosReales_v3.ipynb`.
-Si no están presentes, la API sigue funcionando solo con los modelos clásicos.
-
-Para regenerar los modelos clásicos (`amazon_logreg.joblib`,
-`fonazo_svm.joblib`) desde cero: `python code/back/entrenar_modelos_clasicos.py`.
+Por defecto apunta a `http://localhost:8000` (backend corriendo aparte, sin Docker). Abre `http://localhost:5173`.
 
 </details>
 
