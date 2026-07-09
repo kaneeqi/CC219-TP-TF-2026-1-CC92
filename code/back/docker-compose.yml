@@ -1,0 +1,7 @@
+services:
+  back:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./modelos:/app/modelos:ro
