@@ -35,7 +35,7 @@ def limpiar_texto(texto):
 
 
 RANDOM_STATE = 42
-OUT_DIR = "D:/TF_Aplicaciones_DataScience/repo/code/app/modelos"
+OUT_DIR = "D:/TF_Aplicaciones_DataScience/repo/code/back/modelos"
 
 
 def entrenar_los_4(X, y, prefijo, y_binario_para_xgb=None):
@@ -81,7 +81,10 @@ t0 = time.time()
 dataset = load_dataset("SetFit/amazon_reviews_multi_es")
 df = pd.DataFrame(dataset["train"])
 df = df.rename(columns={"text": "review_body", "label": "stars"})
-df["sentimiento"] = df["stars"].apply(lambda s: "negativo" if s <= 3 else "positivo")
+# "stars" es el label 0-4 del dataset (0=1 estrella ... 4=5 estrellas), NO el
+# conteo real de estrellas. Negativo = 1,2,3 estrellas reales (label <= 2);
+# Positivo = 4,5 estrellas reales (label >= 3).
+df["sentimiento"] = df["stars"].apply(lambda s: "negativo" if s <= 2 else "positivo")
 df["texto_limpio"] = df["review_body"].apply(limpiar_texto)
 print(f"Amazon cargado y preprocesado en {time.time()-t0:.1f}s")
 
@@ -97,10 +100,10 @@ entrenar_los_4(X_amazon, y_amazon, "amazon")
 # Fonazo: intencion, 8 clases (dataset aumentado, 296 mensajes)
 # ---------------------------------------------------------------------------
 print("\n--- Fonazo: cargando dataset aumentado ---")
-df_fz = pd.read_csv("D:/TF_Aplicaciones_DataScience/repo/data/intenciones_dataset_aumentado.csv")
+df_fz = pd.read_csv("D:/TF_Aplicaciones_DataScience/repo/data/intenciones_dataset_v3.csv")
 df_fz["texto_limpio"] = df_fz["texto"].apply(limpiar_texto)
 
-vectorizer_fonazo = TfidfVectorizer(max_features=1000, ngram_range=(1, 2), min_df=1)
+vectorizer_fonazo = TfidfVectorizer(max_features=1500, ngram_range=(1, 2), min_df=1)
 X_fonazo = vectorizer_fonazo.fit_transform(df_fz["texto_limpio"])
 y_fonazo = df_fz["intencion"].astype(str).to_numpy(dtype=object)
 joblib.dump(vectorizer_fonazo, f"{OUT_DIR}/fonazo_vectorizer.joblib")
