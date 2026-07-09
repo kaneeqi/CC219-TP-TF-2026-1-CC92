@@ -17,6 +17,6 @@ code/
   docker-compose.yml   Orquesta ambos contenedores — ver puesta en marcha rápida
 ```
 
-Ver también: [Puesta en marcha rápida (Docker)](PUESTA_EN_MARCHA.md)
+Ver también: [Puesta en marcha rápida (Docker)](../CONTRIBUTING.md)
 
 [← Volver al README](../README.md)

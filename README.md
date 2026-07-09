@@ -34,4 +34,4 @@ Este proyecto se distribuye bajo la licencia MIT.
 
 **Documentación técnica adicional:**
 * [Estructura del código](docs/ESTRUCTURA_CODIGO.md)
-* [Puesta en marcha rápida (Docker)](docs/PUESTA_EN_MARCHA.md)
+* [Puesta en marcha rápida (Docker)](CONTRIBUTING.md)

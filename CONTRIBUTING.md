@@ -1,4 +1,4 @@
-# Puesta en marcha rápida (Docker)
+# Guía de desarrollo — Puesta en marcha rápida (Docker)
 
 **Requisitos:** [Docker](https://docs.docker.com/get-docker/) y Docker Compose (incluido en Docker Desktop). No hace falta instalar Python ni Node — todo corre dentro de los contenedores.
 
@@ -46,5 +46,3 @@ npm install
 npm run dev
 ```
 Por defecto apunta a `http://localhost:8000` (backend corriendo aparte, sin Docker). Abre `http://localhost:5173`.
-
-[← Volver al README](../README.md)
