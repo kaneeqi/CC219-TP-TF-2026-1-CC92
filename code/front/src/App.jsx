@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import MessageBubble from "./components/MessageBubble";
 import SettingsPanel from "./components/SettingsPanel";
 import { analizarMensaje, obtenerModelos } from "./api";
+import logo from "./assets/logo.png";
 import "./App.css";
 
 function horaActual() {
@@ -56,12 +57,16 @@ export default function App() {
     <div className="app-shell">
       <aside className="sidebar">
         <div className="sidebar__header">
-          <div className="sidebar__avatar">📊</div>
+          <div className="sidebar__avatar">
+            <img src={logo} alt="Fonazo" />
+          </div>
           <span className="sidebar__titulo">Fonazo</span>
         </div>
         <div className="sidebar__lista">
           <div className="sidebar__chat sidebar__chat--activo">
-            <div className="sidebar__chat-avatar">📊</div>
+            <div className="sidebar__chat-avatar">
+              <img src={logo} alt="Fonazo" />
+            </div>
             <div className="sidebar__chat-info">
               <strong>Fonazo — Asistente Analítico</strong>
               <span>Intención · Sentimiento · Urgencia</span>
@@ -72,7 +77,9 @@ export default function App() {
 
       <section className="chat-panel">
         <header className="header">
-          <div className="header__avatar">📊</div>
+          <div className="header__avatar">
+            <img src={logo} alt="Fonazo" />
+          </div>
           <div className="header__info">
             <h1>Fonazo — Asistente Analítico</h1>
             <span className="header__subtitulo">Intención · Sentimiento · Urgencia</span>
