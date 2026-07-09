@@ -1,0 +1,29 @@
+texto,intencion
+que clase de fundas hay para mi iPhone 16 Pro Max,consulta_producto
+cuales son las caracteristicas de la MacBook Air,consulta_producto
+estoy buscando esta marca de celular,consulta_producto
+tiene el iPad estandar? que tipo de modelitos?,consulta_producto
+puede mandarme los precios tambien?,consulta_precio
+ese es el precio mas economico?,consulta_precio
+puede mencionarme el precio?,consulta_precio
+cuanto cuesta?,consulta_precio
+"se le cayo un poco de agua, y no funciona, se puede arreglar?",consulta_servicio_tecnico
+pueden revisarlo?,consulta_servicio_tecnico
+"se rompio la pantalla, quisiera saber si pueden ayudarme",consulta_servicio_tecnico
+"ultimamente estuvo lenta, pueden revisarlo?",consulta_servicio_tecnico
+Mi producto llego roto?,queja_producto_servicio
+esta no es la marca que pedi,queja_producto_servicio
+"Pesima atencion, no me enviaron la marca que dije",queja_producto_servicio
+me entregaron otro producto,queja_producto_servicio
+"llego otra cosa, necesito que me cambien con lo que compre",solicitud_garantia_cambio
+"voy a devolver, no es lo que pedi",solicitud_garantia_cambio
+"llego en mal estado, necesito otro producto, cambienmelo",solicitud_garantia_cambio
+"Esta roto, lo voy a devolver",solicitud_garantia_cambio
+se puedo corregir el error?,seguimiento_reparacion
+ya comenzo a prender? se soluciono?,seguimiento_reparacion
+"como van, puedo saber si ya se resolvio?",seguimiento_reparacion
+"la reparacion, como va? cuanto tiempo mas necesitaran?",seguimiento_reparacion
+es urgente puedes pasarme con tu supervisor?,escalamiento_urgente
+Puede llamar a alguien? que si me pueda ayudar?,escalamiento_urgente
+enserio no pueden ayudarme? contacta a alguien ahora mismo,escalamiento_urgente
+en este preciso momento necesito que me contacte tu supervisor,escalamiento_urgente

@@ -3,6 +3,9 @@
 # Modelado_Fonazo.ipynb (celda "Guardar modelo fine-tuneado").
 code/app/modelos/beto_amazon/
 code/app/modelos/beto_fonazo/
+code/app/modelos/beto_amazon_v2/
+code/app/modelos/beto_fonazo_v2/
+code/app/modelos/beto_fonazo_v3/
 
 __pycache__/
 *.pyc

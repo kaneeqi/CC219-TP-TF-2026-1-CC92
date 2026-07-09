@@ -24,9 +24,12 @@ STOPWORDS_ES = {
 }
 
 
+ACENTOS = str.maketrans("áéíóú", "aeiou")
+
+
 def limpiar_texto(texto):
-    texto = str(texto).lower()
-    texto = re.sub(r'[^a-zñáéíóú ]', ' ', texto)
+    texto = str(texto).lower().translate(ACENTOS)
+    texto = re.sub(r'[^a-zñ ]', ' ', texto)
     palabras = [w for w in texto.split() if w not in STOPWORDS_ES and len(w) > 2]
     return ' '.join(palabras)
 

@@ -1,0 +1,680 @@
+texto,intencion
+pienso devolverlo,solicitud_garantia_cambio
+En que colores tienen el iPhone 16?,consulta_producto
+Deje el cel el martes cuando puedo recogerlo?,seguimiento_reparacion
+Cuanto demora un cambio de pantalla express?,consulta_servicio_tecnico
+Ya me canse de esperar necesito respuesta ya,escalamiento_urgente
+Me dijeron que estaria listo en 2 dias y ya van 5,queja_producto_servicio
+Cuanto esta la mica antiespia?,consulta_precio
+Quiero garantia escrita antes de aceptar el cambio,solicitud_garantia_cambio
+pueda hablarme sobre el costo de los nuevos modelos de Mac,consulta_precio
+¿A cuánto me sale la mica normal para el 13?,consulta_precio
+¿Cuánto me cuesta el diagnóstico?,consulta_servicio_tecnico
+El case se agrietó solo guardado en mi mochila,queja_producto_servicio
+La mica antiespia le hace al 15 Pro Max,consulta_producto
+disculpe mi equipo dejo de funcionar pueden verlo?,consulta_servicio_tecnico
+¿Trabajan con garantia en las reparaciones?,consulta_servicio_tecnico
+"tiene ciertos problemas, lo estoy devolviendo",solicitud_garantia_cambio
+A cuánto sale la mica de privacidad?,consulta_precio
+El case MagSafe no pega bien al celular,queja_producto_servicio
+Cambian micrófono si no se escucha nada?,consulta_servicio_tecnico
+El case antigolpes le queda al 12?,consulta_producto
+Cambian botones de volumen si están duros?,consulta_servicio_tecnico
+La mica antiespia no bloquea nada de verdad,queja_producto_servicio
+Tienen precio por mayor para revendedores?,consulta_precio
+¿Hacen cambio de bateria el mismo dia?,consulta_servicio_tecnico
+Necesito que cambien este producto,solicitud_garantia_cambio
+Es urgente mi cel se apagó y tengo algo importante hoy,escalamiento_urgente
+Dejé mi cel hace 4 días y no sé nada ¿pueden decirme cómo va?,seguimiento_reparacion
+Cuánto demora un cambio de pantalla express?,consulta_servicio_tecnico
+Quiero devolver el producto y que me reembolsen,solicitud_garantia_cambio
+Hola ¿a que hora puedo recoger mi iPhone?,seguimiento_reparacion
+Cuánto falta para que esté lista la batería nueva?,seguimiento_reparacion
+Buenas queria saber algo antes de comprar,saludo_cierre
+"Hola, ya esta mi producto?",seguimiento_reparacion
+Mi cel se mojo ¿pueden revisarlo?,consulta_servicio_tecnico
+como se encuentra mi producto?,seguimiento_reparacion
+como van? ya identificaron el problema?,seguimiento_reparacion
+Quiero una solucion hoy mismo no mañana,escalamiento_urgente
+Cuanto falta para que este lista la bateria nueva?,seguimiento_reparacion
+puedo porfavor hablar con alguna persona?,escalamiento_urgente
+Necesito una respuesta ahora no puedo esperar mas,escalamiento_urgente
+Esto es pesimo servicio necesito una solucion ya,escalamiento_urgente
+"ya pase demasiado, no puedo seguir asi. Llame a alguien ahora mismo",escalamiento_urgente
+El case MagSafe le hace al 13 Pro,consulta_producto
+Cuanto me cuesta el diagnostico,consulta_servicio_tecnico
+Me dieron el case de un modelo diferente al que pedí,solicitud_garantia_cambio
+Voy a poner una queja formal si no me solucionan esto hoy,escalamiento_urgente
+Chau nos vemos luego,saludo_cierre
+"piensan ayudarme o no? me canse, necesito que me contactes con tu supervisor ahora mismo",escalamiento_urgente
+¿Ya revisaron mi iPhone? Lo dejé para diagnóstico,seguimiento_reparacion
+Tienen el iPhone 15 Pro en 256GB,consulta_producto
+La batería falló otra vez quiero que respondan por garantía,solicitud_garantia_cambio
+Mi pantalla esta quiñada ¿cuanto me cobran?,consulta_servicio_tecnico
+"no funciona, lo devolvere",solicitud_garantia_cambio
+El servicio técnico trabaja con repuestos sellados?,consulta_servicio_tecnico
+puedo llevarlo? para que lo revisen?,consulta_servicio_tecnico
+¿A qué número me llaman cuando esté listo?,seguimiento_reparacion
+El case llegó sin empaque ni garantía escrita,queja_producto_servicio
+A cuanto sale la mica de privacidad?,consulta_precio
+Mi cel se calienta mucho podrían revisar por qué?,consulta_servicio_tecnico
+Deje mi cel para diagnostico el jueves pasado,seguimiento_reparacion
+Quiero que me cambien el case esta mal hecho,solicitud_garantia_cambio
+Deje mi iPhone 13 para diagnostico el lunes ¿ya tienen resultado?,seguimiento_reparacion
+que clase de accesorios tiene mi modelo?,consulta_producto
+El vidrio templado vino con una burbuja de aire,queja_producto_servicio
+Le hace al iPhone 13 el case MagSafe,consulta_producto
+Puedo pasar a recoger hoy o todavia no esta,seguimiento_reparacion
+¿Puedo pasar a recoger hoy o todavia no esta?,seguimiento_reparacion
+Dejé el iPhone para cambio de batería hace 3 días,seguimiento_reparacion
+tiene solucion? se rompio su pantalla,consulta_servicio_tecnico
+Ya llegaron los repuestos para mi reparacion?,seguimiento_reparacion
+Qué colores manejan del 16 Pro?,consulta_producto
+¿Cuánto me sale cambiar la batería de mi iPhone 13?,consulta_servicio_tecnico
+La reparacion no quedo bien exijo que la rehagan,solicitud_garantia_cambio
+El case llego defectuoso ¿puedo devolverlo?,solicitud_garantia_cambio
+El tecnico no me explico que le hizo a mi cel,queja_producto_servicio
+Voy a reportar esto si no me atienden ya,escalamiento_urgente
+Cuánto me sale el iPhone 16 Pro de 128?,consulta_precio
+Alguien me puede dar info del estado de mi reparacion?,seguimiento_reparacion
+Cuánto me cuesta el diagnóstico?,consulta_servicio_tecnico
+Necesito una solución ahora no mañana,escalamiento_urgente
+¿Hay descuento si llevo el cel con case y mica?,consulta_precio
+Quiero que me devuelvan mi dinero por el producto malo,solicitud_garantia_cambio
+¿Tienen mica completa para el iPhone 14?,consulta_producto
+El accesorio que compre dejo de funcionar en dos dias,queja_producto_servicio
+Hola buenas tengo una duda rápida,saludo_cierre
+Buenos días alguien despierto?,saludo_cierre
+Si no me responden hoy voy a cancelar todo,escalamiento_urgente
+Alguna actualizacion sobre mi orden de servicio?,seguimiento_reparacion
+necesito que cambien mi modelo,solicitud_garantia_cambio
+A que numero me llaman cuando este listo?,seguimiento_reparacion
+Requiero solución urgente antes de que termine el día,escalamiento_urgente
+¿Cuanto esta el cambio de pantalla para el iPhone 14?,consulta_servicio_tecnico
+Hay descuento si llevo el cel con case y mica,consulta_precio
+Hola qué tal,saludo_cierre
+Hacen diagnóstico gratis o tiene costo?,consulta_servicio_tecnico
+Ok perfecto voy a pasar por la tienda,saludo_cierre
+ya terminaron de repararlo?,seguimiento_reparacion
+¿Ese case transparente es para todos los modelos?,consulta_producto
+Deje el iPhone para cambio de bateria hace 3 dias,seguimiento_reparacion
+Gracias por su tiempo,saludo_cierre
+Voy a devolverlo,solicitud_garantia_cambio
+Tienen algo para proteger los bordes del cel?,consulta_producto
+El protector de cámara se despintó rapidísimo,queja_producto_servicio
+Le hace al iPhone 13 el case MagSafe?,consulta_producto
+La mica antiespia le hace al 15 Pro Max?,consulta_producto
+Precio del case antigolpes para el 15 Pro Max?,consulta_precio
+La garantía cubre si el case se despega solo?,solicitud_garantia_cambio
+Me avisan por WhatsApp cuando esté listo?,seguimiento_reparacion
+Cuánto demora el cambio de batería?,consulta_servicio_tecnico
+El case que pedi llego de otro color,queja_producto_servicio
+Qué accesorios tienen para el iPhone 12?,consulta_producto
+"funciona pesimo, lo devolvere",solicitud_garantia_cambio
+Como hago para usar la garantia de la reparacion?,solicitud_garantia_cambio
+Reparan iPhone con daño de agua severo?,consulta_servicio_tecnico
+Cuanto me costaria cambiar pantalla y bateria juntos?,consulta_precio
+Compré un protector y ya se rajó sin haberlo golpeado,queja_producto_servicio
+Hola queria saber el estado de mi cel,seguimiento_reparacion
+Gracias igualmente que esten bien,saludo_cierre
+¿Cuanto tiempo mas falta para que este listo?,seguimiento_reparacion
+Me cambiaron la pantalla y quedó con una línea verde,queja_producto_servicio
+Ya se comunicaron con el proveedor por mi repuesto?,seguimiento_reparacion
+A cuánto me saldría el 16 Pro Max 256GB?,consulta_precio
+cuanto cuesta esas fundas?,consulta_precio
+y cuanto cuesta el cargador MagSafe?,consulta_precio
+"como van las cosas, ya pudieron arreglarlo?",seguimiento_reparacion
+El case que compre llego rayado de fabrica,queja_producto_servicio
+Cómo va el diagnóstico de mi iPhone?,seguimiento_reparacion
+Me pueden cambiar la mica por una de mejor calidad?,solicitud_garantia_cambio
+Quiero cambio del case porque no es el modelo correcto,solicitud_garantia_cambio
+Cuál es el precio del iPhone 15 de 256GB?,consulta_precio
+¿Cuándo estará lista mi reparación?,seguimiento_reparacion
+Me cambiaron la batería y dura menos que antes,queja_producto_servicio
+Cuánto cuesta el iPhone 14 Pro Max?,consulta_precio
+Esto se esta saliendo de control necesito ayuda ya,escalamiento_urgente
+"Lo use por un dia, y dejo de funcionar",queja_producto_servicio
+Necesito una solucion ahora no mañana,escalamiento_urgente
+Cambian botones de volumen si estan duros?,consulta_servicio_tecnico
+Cambian la camara trasera del iPhone 11,consulta_servicio_tecnico
+El case MagSafe le hace al 13 Pro?,consulta_producto
+Esto es inaceptable exijo que me atiendan de inmediato,escalamiento_urgente
+Me entregaron mi cel sin la funda que traia,queja_producto_servicio
+Cuánto más falta para terminar mi reparación?,seguimiento_reparacion
+Hacen cambio de batería el mismo día,consulta_servicio_tecnico
+Nadie me avisó que se había atrasado mi reparación,queja_producto_servicio
+Hola quería saber el estado de mi cel,seguimiento_reparacion
+Ya son 3 días y no me han llamado ¿qué pasó con mi cel?,seguimiento_reparacion
+Cuanto esta el iPhone 12 reacondicionado,consulta_precio
+Me avisan por WhatsApp cuando este listo?,seguimiento_reparacion
+¿Arreglan el Touch ID que dejó de funcionar?,consulta_servicio_tecnico
+"No funciona, no hice nada",queja_producto_servicio
+¿Como hago para usar la garantia de la reparacion?,solicitud_garantia_cambio
+Trabajan con garantia en las reparaciones?,consulta_servicio_tecnico
+Cual es el numero de mi orden para hacer seguimiento?,seguimiento_reparacion
+Cuánto cobran por el diagnóstico si no es garantía?,consulta_precio
+Me dijeron que estaría listo en 2 días y ya van 5,queja_producto_servicio
+De la nada dejo de prender su pantalla,queja_producto_servicio
+La mica se rompio sola quiero el cambio,solicitud_garantia_cambio
+ya esta reparado?,seguimiento_reparacion
+¿Trabajan con garantía en las reparaciones?,consulta_servicio_tecnico
+No puedo seguir esperando necesito que resuelvan hoy,escalamiento_urgente
+"llego mucho tiempo esperando, contactame con alguna persona",escalamiento_urgente
+¿Cuanto esta la mica antiespia?,consulta_precio
+exijo un cambio,solicitud_garantia_cambio
+Tienen cases para el 14 Plus?,consulta_producto
+entonces este producto cuesta asi?,consulta_precio
+No entiendo? no existe alguien que pueda solucionar mi problema?,escalamiento_urgente
+Reparan la vibración si dejó de funcionar?,consulta_servicio_tecnico
+el mas caro?,consulta_precio
+Cuanto sale instalar la mica en tienda?,consulta_precio
+Gracias igualmente que estén bien,saludo_cierre
+¿Hacen cambio de batería el mismo día?,consulta_servicio_tecnico
+"no se que paso, dejo de funcionar, pueden revisar el equipo?",consulta_servicio_tecnico
+Nadie me aviso que se habia atrasado mi reparacion,queja_producto_servicio
+La bateria fallo otra vez quiero que respondan por garantia,solicitud_garantia_cambio
+no es lo que buscaba voy a devolverlo,solicitud_garantia_cambio
+Hay descuento si llevo el cel con case y mica?,consulta_precio
+Cambian microfono si no se escucha nada?,consulta_servicio_tecnico
+¿Tienen alguna promo por cantidad?,consulta_precio
+Quiero garantía escrita antes de aceptar el cambio,solicitud_garantia_cambio
+Ya se hizo el cambio de pantalla que dejé ayer?,seguimiento_reparacion
+Gracias por la atencion,saludo_cierre
+Me pueden avisar cuando este lista la reparacion?,seguimiento_reparacion
+Me pueden comunicar con alguien que me solucione esto?,escalamiento_urgente
+La reparación demoró el doble de lo prometido,queja_producto_servicio
+Tienen algun precio especial para empresas,consulta_precio
+Pueden revisar de nuevo la reparacion sin costo?,solicitud_garantia_cambio
+Tienen disponible el case con correa?,consulta_producto
+Necesito hablar con una persona no con un bot,escalamiento_urgente
+Tienen mica completa para el iPhone 14?,consulta_producto
+Tienen garantía de fábrica en los productos nuevos?,consulta_producto
+cuanto seria si compro mas de un producto?,consulta_precio
+Hacen reparación de Face ID?,consulta_servicio_tecnico
+La mica se burbujeo sola ¿me la cambian?,solicitud_garantia_cambio
+A qué número me llaman cuando esté listo,seguimiento_reparacion
+Vale gracias quedo atento,saludo_cierre
+Hacen envios a provincia?,consulta_producto
+Buenas noches disculpen la molestia,saludo_cierre
+El case que compre llego con un rayon,queja_producto_servicio
+Me entregaron mi cel con una mancha en pantalla que antes no tenía,queja_producto_servicio
+Buenos días dejé mi cel ayer para cambio de pantalla ¿ya está listo?,seguimiento_reparacion
+La mica que me vendieron se despegó al día siguiente,queja_producto_servicio
+A qué número me llaman cuando esté listo?,seguimiento_reparacion
+Esto no puede esperar necesito atención prioritaria,escalamiento_urgente
+Cuanto sale la mica trasera para el 14 Pro Max?,consulta_precio
+Reparan la vibracion si dejo de funcionar?,consulta_servicio_tecnico
+Hacen mantenimiento preventivo de bateria?,consulta_servicio_tecnico
+Hacen respaldo de datos antes de reparar?,consulta_servicio_tecnico
+Cuanto demoran en cambiar una pantalla rajada,consulta_servicio_tecnico
+Me pueden avisar cuando este lista la reparacion,seguimiento_reparacion
+Requiero solucion urgente antes de que termine el dia,escalamiento_urgente
+Llevo horas escribiendo y nadie responde es urgente,escalamiento_urgente
+puede enviarle el catalago? con los precios porfavor,consulta_precio
+Esto es urgente mi cel es mi único medio de trabajo,escalamiento_urgente
+Hacen reparacion de Face ID?,consulta_servicio_tecnico
+Compré el protector ayer y ya se levantó por las esquinas ¿me lo cambian?,solicitud_garantia_cambio
+Hola buen día,saludo_cierre
+solo llama a una persona que sepa ayudarme,escalamiento_urgente
+Ya se hizo el cambio de pantalla que deje ayer?,seguimiento_reparacion
+quisiera saber si pueden solucionar el problema,consulta_servicio_tecnico
+Dejé mi cel el miércoles ya está listo?,seguimiento_reparacion
+Ya son 3 dias y no me han llamado ¿que paso con mi cel?,seguimiento_reparacion
+Cuanto cuesta si solo es cambio de vidrio sin pantalla?,consulta_servicio_tecnico
+Qué precio tiene la mica templada para el 16?,consulta_precio
+Cuanto demora el cambio de bateria?,consulta_servicio_tecnico
+Hacen diagnóstico a domicilio?,consulta_servicio_tecnico
+A cuánto está el protector de cámara?,consulta_precio
+"No prende, apenas lo compre ayer",queja_producto_servicio
+"Ya me canse de esperar, necesito hablar con alguien ahora mismo",escalamiento_urgente
+A cuánto la mica completa para el 14 Pro,consulta_precio
+Listo entonces paso mañana,saludo_cierre
+Quiero cambiar el pedido llego incompleto,solicitud_garantia_cambio
+Esto es pésimo servicio necesito una solución ya,escalamiento_urgente
+¿En qué colores tienen el iPhone 16?,consulta_producto
+Ya quedo claro gracias por todo,saludo_cierre
+La mica se rompió sola quiero el cambio,solicitud_garantia_cambio
+Cuanto mas falta para terminar mi reparacion?,seguimiento_reparacion
+Esto es un abuso ya me tienen cansado,escalamiento_urgente
+Dejé mi celular el viernes ¿ya llegaron los repuestos?,seguimiento_reparacion
+Esto es urgente mi cel es mi unico medio de trabajo,escalamiento_urgente
+que modelos de mac tiene?,consulta_producto
+Ok gracias por la info voy a pensarlo,saludo_cierre
+despues de dos dias de uso dejo de funcionar,queja_producto_servicio
+¿Qué accesorios tienen para el iPhone 12?,consulta_producto
+Ya llegaron los repuestos para mi reparación?,seguimiento_reparacion
+puedo ver sus modelitos?,consulta_producto
+Cambian la pantalla original o es generica?,consulta_servicio_tecnico
+La pantalla que me cambiaron no responde bien al tacto,queja_producto_servicio
+La mica que me vendieron se despego al dia siguiente,queja_producto_servicio
+Tienen protector de camara para el 15 Pro?,consulta_producto
+Quiero hacer válida la garantía de mi reparación,solicitud_garantia_cambio
+Contactame con alguien,escalamiento_urgente
+Mi iPhone se reinicia solo podrian verlo?,consulta_servicio_tecnico
+Cuanto tiempo llevan trabajando mi cel?,seguimiento_reparacion
+"No funcionar, quiero que me lo cambien",solicitud_garantia_cambio
+Dejé mi iPhone 12 el lunes para revisión aún nada?,seguimiento_reparacion
+"al final, recibire algun descuento? cuanto seria?",consulta_precio
+Puedo pasar mañana a recoger mi iPhone?,seguimiento_reparacion
+Quiero una solución hoy mismo no mañana,escalamiento_urgente
+Mi iPhone se reinicia solo podrían verlo?,consulta_servicio_tecnico
+Reparan el altavoz si suena bajito?,consulta_servicio_tecnico
+tiene disponible la ultima version del MacBooks Air,consulta_producto
+Tienen el iPhone 15 Pro en 256GB?,consulta_producto
+necesito que me cambien mi compra,solicitud_garantia_cambio
+Arreglan el Touch ID que dejó de funcionar,consulta_servicio_tecnico
+¿Me pueden avisar cuando esté lista la reparación?,seguimiento_reparacion
+A que hora cierran para poder recoger mi cel?,seguimiento_reparacion
+"llamalo ahora mismo, necesito a alguien que si sepa ayudarme",escalamiento_urgente
+El case llego sin empaque ni garantia escrita,queja_producto_servicio
+Me dijeron 2 dias y ya paso una semana que paso?,seguimiento_reparacion
+¿Puedo pasar a recoger hoy o todavía no está?,seguimiento_reparacion
+Quiero hablar con el encargado por favor,escalamiento_urgente
+Sigue en cola mi reparación o ya empezaron?,seguimiento_reparacion
+Arreglan el Touch ID que dejo de funcionar?,consulta_servicio_tecnico
+Necesito que me devuelvan la llamada de inmediato,escalamiento_urgente
+Tienen el 14 Pro Max en 512GB?,consulta_producto
+Me cambiaron la pantalla y quedo con una linea verde,queja_producto_servicio
+La mica se despegó de una esquina al segundo día,queja_producto_servicio
+Necesito cambiar la mica que vino con defecto,solicitud_garantia_cambio
+"me lo entregaron sin funcionar, no prende",queja_producto_servicio
+alguno de ustedes puede solucionar la falla de mi nuevo celular?,consulta_servicio_tecnico
+¿La mica antiespía le hace al 15 Pro Max?,consulta_producto
+Hacen cambio de bateria el mismo dia,consulta_servicio_tecnico
+A cuanto sale el iPhone 12 mini?,consulta_precio
+Ya quedó claro gracias por todo,saludo_cierre
+La bateria que me pusieron se acaba rapidisimo,queja_producto_servicio
+puedo por lo menos saber si algun dia una persona me ayudara?,escalamiento_urgente
+"no cumple con lo que dijeron, quiero que lo cambien",solicitud_garantia_cambio
+Hola que tal,saludo_cierre
+Hola buen dia,saludo_cierre
+dejo de funcionar,queja_producto_servicio
+Hacen reparación de puerto de carga?,consulta_servicio_tecnico
+Quiero devolver el cargador no sirve,solicitud_garantia_cambio
+A cuanto sale el case de silicona para el 13 mini?,consulta_precio
+se puede arreglar mi producto?,consulta_servicio_tecnico
+¿La garantia aplica si yo no lo golpee?,solicitud_garantia_cambio
+Ya escribi tres veces necesito que me atiendan ya,escalamiento_urgente
+A cuánto me sale el iPhone 15?,consulta_precio
+Me prometieron llamarme y nunca lo hicieron,queja_producto_servicio
+Hacen diagnostico a domicilio?,consulta_servicio_tecnico
+Cuál es el número de mi orden para hacer seguimiento?,seguimiento_reparacion
+quisiera saber los costos del producto,consulta_precio
+Me atendieron mal cuando fui a reclamar,queja_producto_servicio
+Tienen stock del 16 Pro Max,consulta_producto
+El case le hace al iPhone 14 Plus tambien?,consulta_producto
+"en este preciso momento no puedo seguir asi, llama a alguien",escalamiento_urgente
+Que colores manejan del 16 Pro?,consulta_producto
+no funciona,queja_producto_servicio
+Necesito que me cambien el accesorio por uno nuevo,solicitud_garantia_cambio
+Exijo hablar con alguien con autoridad para resolver esto,escalamiento_urgente
+Tienen garantia de fabrica en los productos nuevos?,consulta_producto
+Quiero garantía por la batería que se agota rápido,solicitud_garantia_cambio
+¿A cuanto el case MagSafe para el 14?,consulta_precio
+Necesito que revisen de nuevo mi cel por la misma falla,solicitud_garantia_cambio
+Cuánto sale el iPhone 16 Plus nuevo?,consulta_precio
+Esto ya es demasiado quiero solucion inmediata,escalamiento_urgente
+A cuanto me sale la mica normal para el 13,consulta_precio
+Listo gracias por la info,saludo_cierre
+Esto no puede esperar necesito atencion prioritaria,escalamiento_urgente
+Trabajan con garantía en las reparaciones?,consulta_servicio_tecnico
+¿Cuánto está la mica antiespía?,consulta_precio
+El accesorio que compré dejó de funcionar en dos días,queja_producto_servicio
+Cual es el precio del iPhone 15 de 256GB?,consulta_precio
+¿Cuanto esta el iPhone 12 reacondicionado?,consulta_precio
+¿Le hace al iPhone 13 el case MagSafe?,consulta_producto
+Me entregaron el cel con una raya que no tenía antes,queja_producto_servicio
+La mica antiespía no bloquea nada de verdad,queja_producto_servicio
+Me cambiaron la pantalla y quedo mala quiero que la revisen de nuevo,solicitud_garantia_cambio
+Puedo llamar para preguntar por mi orden de reparación?,seguimiento_reparacion
+Tienen el 16e disponible?,consulta_producto
+Que precio tiene la mica templada para el 16?,consulta_precio
+que tipo de productos tiene disponible?,consulta_producto
+La batería que me pusieron se acaba rapidísimo,queja_producto_servicio
+arreglar su pantalla?,seguimiento_reparacion
+Hola buenas tengo una duda rapida,saludo_cierre
+Dejé mi cel para diagnóstico el jueves pasado,seguimiento_reparacion
+¿Precio del case transparente para el 15?,consulta_precio
+La garantia cubre si el case se despega solo?,solicitud_garantia_cambio
+Mi cel cayo y la pantalla quedo rajada ¿cuanto me sale arreglarlo?,consulta_servicio_tecnico
+Ya me toca recoger mi cel o todavia no?,seguimiento_reparacion
+¿Cómo hago para usar la garantía de la reparación?,solicitud_garantia_cambio
+¿A cuanto me sale la mica normal para el 13?,consulta_precio
+A cuanto esta el protector de camara?,consulta_precio
+ya esta bien? se soluciono el problema?,seguimiento_reparacion
+La pantalla nueva tiene un punto blanco,queja_producto_servicio
+Cuanto cuesta el iPhone 14 Pro Max?,consulta_precio
+pueden ayudarme?,consulta_servicio_tecnico
+Perfecto muchas gracias,saludo_cierre
+Cuánto está la mica antiespía,consulta_precio
+Hola espero esten bien queria consultar,saludo_cierre
+Chau gracias por todo,saludo_cierre
+puede mandarme los precios de los otros productos?,consulta_precio
+¿Tienen protector para el iPhone 13 mini?,consulta_producto
+El servicio tecnico trabaja con repuestos sellados?,consulta_servicio_tecnico
+Cuánto dura la garantía de la pantalla cambiada?,solicitud_garantia_cambio
+A cuánto me sale el combo case mas mica?,consulta_precio
+Tienen algun precio especial para empresas?,consulta_precio
+Me cobraron de más por el diagnóstico,queja_producto_servicio
+Pueden revisar de nuevo la reparación sin costo?,solicitud_garantia_cambio
+Buenas tardes ¿estan atendiendo?,saludo_cierre
+Hola buenas quería consultar algo,saludo_cierre
+Quiero cambiar el pedido llegó incompleto,solicitud_garantia_cambio
+Necesito que prioricen mi caso es urgente de verdad,escalamiento_urgente
+se corrigio o todavia no,seguimiento_reparacion
+Llego danado,queja_producto_servicio
+Buenos dias deje mi cel ayer para cambio de pantalla ¿ya esta listo?,seguimiento_reparacion
+"se apago, y no prende",queja_producto_servicio
+¿Cuánto demoran en cambiar una pantalla rajada?,consulta_servicio_tecnico
+¿Ya revisaron mi iPhone? Lo deje para diagnostico,seguimiento_reparacion
+De la nada se apago que paso? porque no funciona?,queja_producto_servicio
+Cuánto tiempo llevan trabajando mi cel?,seguimiento_reparacion
+Cambian la cámara trasera del iPhone 11,consulta_servicio_tecnico
+Cuanto vale el cargador MagSafe original?,consulta_precio
+Hola buen dia una consulta rapida,saludo_cierre
+Tienen descuento para estudiantes?,consulta_precio
+Mi cel no carga bien podrían revisarlo?,consulta_servicio_tecnico
+Hay rebaja por pago en efectivo?,consulta_precio
+Cuanto me sale el iPhone 16 Pro de 128,consulta_precio
+¿Tienen el iPhone 15 Pro en 256GB?,consulta_producto
+Cuanto sale cambiar el vidrio trasero?,consulta_servicio_tecnico
+Quiero hacer valida la garantia de mi reparacion,solicitud_garantia_cambio
+Reparan si el cel no enciende para nada?,consulta_servicio_tecnico
+Hola ¿a qué hora abren hoy?,saludo_cierre
+Es urgente mi cel se apago y tengo algo importante hoy,escalamiento_urgente
+se logro corregir las fallas?,seguimiento_reparacion
+Tienen cases para el 14 Plus,consulta_producto
+Cuanto tiempo de garantia tienen los accesorios,solicitud_garantia_cambio
+El protector de camara viene con instalacion incluida?,consulta_producto
+dispone de cargadores MagSafe?,consulta_producto
+Aplica la garantia si fue un defecto de fabrica?,solicitud_garantia_cambio
+A como esta el iPhone 11 usado?,consulta_precio
+puede recomendarme algun producto?,consulta_producto
+y el mas economico?,consulta_precio
+A cuánto me sale el iPhone 15,consulta_precio
+¿Me pueden avisar cuando este lista la reparacion?,seguimiento_reparacion
+todavia no se corrige?,seguimiento_reparacion
+cual es el precio de ese modelo de ordenador?,consulta_precio
+Hay algún supervisor disponible?,escalamiento_urgente
+¿Hay algún supervisor disponible?,escalamiento_urgente
+Hacen mantenimiento preventivo de batería?,consulta_servicio_tecnico
+Me vendieron un repuesto que no era original,queja_producto_servicio
+Hola siguen atendiendo hoy?,saludo_cierre
+Me entregaron mi cel sin la funda que traía,queja_producto_servicio
+Alguien me puede dar info del estado de mi reparación?,seguimiento_reparacion
+"Ni siquiera anotaron bien mi producto, me entregaron cualquier cosa",queja_producto_servicio
+Me pueden cambiar el protector si no funciona bien?,solicitud_garantia_cambio
+Cuánto está el cambio de pantalla para el iPhone 14,consulta_servicio_tecnico
+"mi nuevo producto fallo, pueden revisarlo?",consulta_servicio_tecnico
+A cuanto el case MagSafe para el 14,consulta_precio
+Buenas quería saber algo antes de comprar,saludo_cierre
+Puedo pasar a recoger hoy o todavía no está?,seguimiento_reparacion
+Tienen técnico especializado en placas?,consulta_servicio_tecnico
+La batería que me pusieron no dura nada ¿tienen garantía?,solicitud_garantia_cambio
+Me dijeron un precio y en la boleta salió más caro,queja_producto_servicio
+Deje mi celular el viernes ¿ya llegaron los repuestos?,seguimiento_reparacion
+¿Hacen diagnostico? Mi cel no prende,consulta_servicio_tecnico
+Me cobraron de mas por el diagnostico,queja_producto_servicio
+Cuanto me sale cambiar la bateria de mi iPhone 13?,consulta_servicio_tecnico
+Tienen precio especial si compro dos mica?,consulta_precio
+Hola disculpen la hora,saludo_cierre
+ya esta funcionando?,seguimiento_reparacion
+¿Cuanto me sale el iPhone 16 Pro de 128?,consulta_precio
+Me entregaron mi cel con una mancha en pantalla que antes no tenia,queja_producto_servicio
+Manejan accesorios para el iPhone SE?,consulta_producto
+Sigue en cola mi reparacion o ya empezaron?,seguimiento_reparacion
+"me llego roto, cambienme el modelo",solicitud_garantia_cambio
+Que accesorios tienen para el iPhone 12?,consulta_producto
+solo necesito que tu supervisor me responda,escalamiento_urgente
+Perfecto ya paso en la tarde,saludo_cierre
+Tienen protector para el iPhone 13 mini,consulta_producto
+Tienen audifonos compatibles con iPhone?,consulta_producto
+Cuanto esta saliendo el iPhone 13 reacondicionado ahora?,consulta_precio
+Tienen tecnico especializado en placas?,consulta_servicio_tecnico
+A cuánto sale el case de silicona para el 13 mini?,consulta_precio
+El cargador que me vendieron no carga bien,queja_producto_servicio
+Gracias por la atención,saludo_cierre
+Cuánto sale cambiar el vidrio trasero?,consulta_servicio_tecnico
+Puedo llamar para preguntar por mi orden de reparacion?,seguimiento_reparacion
+Me pueden decir el precio del case con MagSafe integrado?,consulta_precio
+Cuánto cuesta si solo es cambio de vidrio sin pantalla?,consulta_servicio_tecnico
+El case le hace al iPhone 14 Plus también?,consulta_producto
+Cual es el costo de envio si lo pido a domicilio?,consulta_precio
+Me entregaron el cel con una raya que no tenia antes,queja_producto_servicio
+Deje mi cel el miercoles ya esta listo?,seguimiento_reparacion
+Tienen el iPhone 16 en color titanio?,consulta_producto
+Mi cel se mojó ¿pueden revisarlo?,consulta_servicio_tecnico
+que tipo de accesorios hay para mi celular?,consulta_producto
+¿Tienen stock del 16 Pro Max?,consulta_producto
+Hola ¿a qué hora puedo recoger mi iPhone?,seguimiento_reparacion
+Me vendieron una mica que no le hace bien a mi iPhone,queja_producto_servicio
+Deje mi iPhone 12 el lunes para revision aun nada?,seguimiento_reparacion
+A cuanto me sale el combo case mas mica?,consulta_precio
+Hola buenas noches,saludo_cierre
+"con todos sus accesorios, puede decirme el total.",consulta_precio
+El case llego sin la caja y sin accesorios,queja_producto_servicio
+cambienmelo porque no es lo que esperaba,solicitud_garantia_cambio
+Compre el protector ayer y ya se levanto por las esquinas ¿me lo cambian?,solicitud_garantia_cambio
+¿Cambian la cámara trasera del iPhone 11?,consulta_servicio_tecnico
+Puedo cambiar el case dentro de los 7 dias de comprado?,solicitud_garantia_cambio
+La reparación quedó con un ruido raro en el altavoz,queja_producto_servicio
+A cuánto el case MagSafe para el 14?,consulta_precio
+Cuánto tiempo de garantía tienen los accesorios?,solicitud_garantia_cambio
+Gracias ya me queda claro,saludo_cierre
+La garantia aplica si yo no lo golpee,solicitud_garantia_cambio
+Esto es grave necesito que lo resuelvan hoy mismo,escalamiento_urgente
+¿Cuánto está el cambio de pantalla para el iPhone 14?,consulta_servicio_tecnico
+no prende por alguna razon,queja_producto_servicio
+Cuánto tiempo de garantía tienen los accesorios,solicitud_garantia_cambio
+Hola buen día una consulta rápida,saludo_cierre
+El case que compré llegó con un rayón,queja_producto_servicio
+"ocurrio un problema con mi compra, quisiera saber si se puede arreglar",consulta_servicio_tecnico
+¿Hacen diagnóstico? Mi cel no prende,consulta_servicio_tecnico
+Ya escribí tres veces necesito que me atiendan ya,escalamiento_urgente
+Cuanto cobran por el diagnostico si no es garantia?,consulta_precio
+¿Me pueden comunicar con alguien que me solucione esto?,escalamiento_urgente
+La garantia aplica si yo no lo golpee?,solicitud_garantia_cambio
+El case transparente amarillea con el tiempo?,consulta_producto
+Hacen reparacion de puerto de carga?,consulta_servicio_tecnico
+tiene algunas fundas para mi compra?,consulta_producto
+Tienen stock del 16 Pro Max?,consulta_producto
+Quiero garantia por la bateria que se agota rapido,solicitud_garantia_cambio
+¿A cuánto el case MagSafe para el 14?,consulta_precio
+Cuánto vale el cargador MagSafe original?,consulta_precio
+Hola ¿a que hora abren hoy?,saludo_cierre
+"Si compro dos productos, recibire algun descuento? cuanto seria en total?",consulta_precio
+Ok ya con eso está. Gracias,saludo_cierre
+Me pueden comunicar con alguien que me solucione esto,escalamiento_urgente
+Hola ¿siguen abiertos?,saludo_cierre
+Exijo que me devuelvan mi dinero,escalamiento_urgente
+Cuánto tiempo más falta para que esté listo?,seguimiento_reparacion
+El técnico no me explicó qué le hizo a mi cel,queja_producto_servicio
+¿Cuánto me sale el iPhone 16 Pro de 128?,consulta_precio
+Tienen mica completa para el iPhone 14,consulta_producto
+Alguna actualización sobre mi orden de servicio?,seguimiento_reparacion
+Hola espero estén bien quería consultar,saludo_cierre
+La reparacion demoro el doble de lo prometido,queja_producto_servicio
+Quiero cambiar la mica no le hace bien a mi iPhone 14,solicitud_garantia_cambio
+Si no me atienden bien voy a poner reseña en Google,escalamiento_urgente
+El protector de cámara viene con instalación incluida?,consulta_producto
+Hola buenas queria consultar algo,saludo_cierre
+Precio del case transparente para el 15,consulta_precio
+se equivocaron no solicite esto,queja_producto_servicio
+¿A cuánto la mica completa para el 14 Pro?,consulta_precio
+puedo llevarselos para que lo revisen?,consulta_servicio_tecnico
+Cuánto me costaría cambiar pantalla y batería juntos?,consulta_precio
+Ya me toca recoger mi cel o todavía no?,seguimiento_reparacion
+A cuánto me saldría el 16 Pro Max 256GB,consulta_precio
+¿Cuanto me cuesta el diagnostico?,consulta_servicio_tecnico
+Hacen limpieza interna si se mojo el cel?,consulta_servicio_tecnico
+Tienen repuestos originales para bateria?,consulta_producto
+sabe si se puede correguir?,consulta_servicio_tecnico
+"Ok gracias, cualquier cosa les escribo",saludo_cierre
+El case no aguanto ni una semana quiero cambio,solicitud_garantia_cambio
+Me vendieron el case equivocado ¿me lo pueden cambiar?,solicitud_garantia_cambio
+como es posible que ni siquiera lo he usado una semana y ya no funciona?,queja_producto_servicio
+Cuánto cuesta el cambio de batería original?,consulta_precio
+Pueden decirme porque no llego el producto que compre? llego otro producto,queja_producto_servicio
+Puedo cambiar el case dentro de los 7 días de comprado?,solicitud_garantia_cambio
+El case se agrieto solo guardado en mi mochila,queja_producto_servicio
+cuanto tiempo mas les demorara arreglarlo?,seguimiento_reparacion
+Me devolvieron el cel más rayado de como lo dejé,queja_producto_servicio
+Esto se está saliendo de control necesito ayuda ya,escalamiento_urgente
+Tienen iPhone 13 Pro en color grafito?,consulta_producto
+La reparacion quedo con un ruido raro en el altavoz,queja_producto_servicio
+Hacen envíos a provincia?,consulta_producto
+Tienen mica de vidrio templado 9H?,consulta_producto
+"esa funda para mi celular, cuanto esta?",consulta_precio
+El case que pedí llegó de otro color,queja_producto_servicio
+Tienen oferta esta semana en accesorios?,consulta_precio
+Pueden pasarme con un supervisor ahora?,escalamiento_urgente
+Mi cel salio con menos bateria despues del cambio,queja_producto_servicio
+Cuándo estará lista mi reparación,seguimiento_reparacion
+pueden revisarlo? la carga dejo de trabajar y ya no funciona,consulta_servicio_tecnico
+Cuanto me sale cambiar la bateria de mi iPhone 13,consulta_servicio_tecnico
+Dejé el cel el martes cuándo puedo recogerlo?,seguimiento_reparacion
+El case que compré llegó rayado de fábrica,queja_producto_servicio
+Como hago para usar la garantia de la reparacion,solicitud_garantia_cambio
+¿Tienen algun precio especial para empresas?,consulta_precio
+Cuánto sale instalar la mica en tienda?,consulta_precio
+"ni siquiera prendio, lo devolvere",solicitud_garantia_cambio
+Me dijeron 2 días y ya pasó una semana qué pasó?,seguimiento_reparacion
+El protector de camara se despinto rapidisimo,queja_producto_servicio
+Ya tienen el diagnóstico de mi celular?,seguimiento_reparacion
+Buenas tardes queria consultar algo rapido,saludo_cierre
+Me urge hablar con alguien ahora mismo,escalamiento_urgente
+no compre esto,queja_producto_servicio
+que tipo de marcas tiene?,consulta_producto
+Dejé mi iPhone 13 para diagnóstico el lunes ¿ya tienen resultado?,seguimiento_reparacion
+Ok perfecto nos vemos en tienda,saludo_cierre
+Cuanto cuesta el cambio de bateria original?,consulta_precio
+Puedo cambiar el color del case que compré?,solicitud_garantia_cambio
+A cuánto la mica completa para el 14 Pro?,consulta_precio
+Cuanto dura la garantia de la pantalla cambiada?,solicitud_garantia_cambio
+Hacen pedidos personalizados de case?,consulta_producto
+que especificaciones tiene ese modelito?,consulta_producto
+vende alguna marca de Apple Watch?,consulta_producto
+pueden cambiarmelo? dejo de funcionar,solicitud_garantia_cambio
+Quiero hablar con el dueño directamente,escalamiento_urgente
+Venden solo la mica sin instalacion?,consulta_producto
+Exijo garantia porque el problema volvio a los 2 dias,solicitud_garantia_cambio
+El case llegó defectuoso ¿puedo devolverlo?,solicitud_garantia_cambio
+cual es el precio del nuevo iPhone?,consulta_precio
+A cómo está el iPhone 11 usado?,consulta_precio
+Hacen limpieza interna si se mojó el cel?,consulta_servicio_tecnico
+La mica se burbujeó sola ¿me la cambian?,solicitud_garantia_cambio
+dispone del nuevo modelo de iPhone?,consulta_producto
+Ok ya con eso esta. Gracias,saludo_cierre
+A cuánto sale el iPhone 12 mini?,consulta_precio
+"se cayo accidentalmente, pueden revisarlo?",consulta_servicio_tecnico
+Tienen protector de cámara para el 15 Pro?,consulta_producto
+Hola ¿tienen el 11 reacondicionado?,consulta_producto
+Cuál es el costo de envío si lo pido a domicilio?,consulta_precio
+La mica antiespía le hace al 15 Pro Max,consulta_producto
+Tienen alguna promo por cantidad?,consulta_precio
+Mi cel no carga bien podrian revisarlo?,consulta_servicio_tecnico
+Quiero que me cambien el case está mal hecho,solicitud_garantia_cambio
+Hay algun supervisor disponible,escalamiento_urgente
+Alguien puede atenderme ahora es una emergencia,escalamiento_urgente
+y cuanto me costaria en total?,consulta_precio
+Necesito que alguien me llame ya mismo,escalamiento_urgente
+Manejan case con soporte para tarjetas?,consulta_producto
+Buenas tardes quería consultar algo rápido,saludo_cierre
+Tienen repuestos originales para batería?,consulta_producto
+¿En que colores tienen el iPhone 16?,consulta_producto
+Compre un protector y ya se rajo sin haberlo golpeado,queja_producto_servicio
+Muchas gracias hasta luego,saludo_cierre
+Cuánto está saliendo el iPhone 13 reacondicionado ahora?,consulta_precio
+Cuanto esta el cambio de pantalla para el iPhone 14,consulta_servicio_tecnico
+Tienen stock para entrega hoy mismo?,consulta_producto
+Exijo garantía porque el problema volvió a los 2 días,solicitud_garantia_cambio
+ya puede funcionar?,seguimiento_reparacion
+Tienen audífonos compatibles con iPhone?,consulta_producto
+Quiero que revisen mi cel la reparación no quedó bien,solicitud_garantia_cambio
+¿Tienen algún precio especial para empresas?,consulta_precio
+Necesito una respuesta ahora no puedo esperar más,escalamiento_urgente
+Ok entendido gracias,saludo_cierre
+En que colores tienen el iPhone 16,consulta_producto
+Precio del case transparente para el 15?,consulta_precio
+¿El case MagSafe le hace al 13 Pro?,consulta_producto
+Tienen alguna promo por cantidad,consulta_precio
+Arreglan el Touch ID que dejó de funcionar?,consulta_servicio_tecnico
+¿Cuánto está el iPhone 12 reacondicionado?,consulta_precio
+Como va el diagnostico de mi iPhone?,seguimiento_reparacion
+A cuanto me sale el iPhone 15?,consulta_precio
+El case no aguantó ni una semana quiero cambio,solicitud_garantia_cambio
+Hay algun supervisor disponible?,escalamiento_urgente
+necesito un supervisor ahora mismo,escalamiento_urgente
+Cuándo estará lista mi reparación?,seguimiento_reparacion
+Cambian la pantalla original o es genérica?,consulta_servicio_tecnico
+Venden solo la mica sin instalación?,consulta_producto
+Cuánto me sale cambiar la batería de mi iPhone 13,consulta_servicio_tecnico
+La reparación no quedó bien exijo que la rehagan,solicitud_garantia_cambio
+Ese case transparente es para todos los modelos?,consulta_producto
+A qué hora cierran para poder recoger mi cel?,seguimiento_reparacion
+Que marcas de celulares tiene?,consulta_producto
+¿A cuánto me saldría el 16 Pro Max 256GB?,consulta_precio
+Cuanto demoran en cambiar una pantalla rajada?,consulta_servicio_tecnico
+necesito devolver esto,solicitud_garantia_cambio
+Cambian la camara trasera del iPhone 11?,consulta_servicio_tecnico
+Perfecto quedo pendiente entonces,saludo_cierre
+Ese case transparente es para todos los modelos,consulta_producto
+¿La garantía aplica si yo no lo golpeé?,solicitud_garantia_cambio
+Me cambiaron la bateria y dura menos que antes,queja_producto_servicio
+Tienen stock de mica mate?,consulta_producto
+Ya tienen el diagnostico de mi celular?,seguimiento_reparacion
+Cuanto sale el iPhone 16 Plus nuevo?,consulta_precio
+¿Cuando estara lista mi reparacion?,seguimiento_reparacion
+La bateria que me pusieron no dura nada ¿tienen garantia?,solicitud_garantia_cambio
+que tipo de protectores de pantalla tiene? para mi celular?,consulta_producto
+Puedo cambiar el color del case que compre?,solicitud_garantia_cambio
+Me dieron el case de un modelo diferente al que pedi,solicitud_garantia_cambio
+Ya me cansé de esperar necesito respuesta ya,escalamiento_urgente
+¿Tienen cases para el 14 Plus?,consulta_producto
+es capas de ser arreglado,consulta_servicio_tecnico
+Cuánto tiempo de garantía dan por reparación?,consulta_servicio_tecnico
+No tengo tiempo que perder necesito esto resuelto ya,escalamiento_urgente
+Cuánto demoran en cambiar una pantalla rajada?,consulta_servicio_tecnico
+"en este momento, contactame con alguien",escalamiento_urgente
+Mi pantalla está quiñada ¿cuánto me cobran?,consulta_servicio_tecnico
+ya se soluciono? como van las reparaciones?,seguimiento_reparacion
+¿A cuánto me sale el iPhone 15?,consulta_precio
+Deje mi cel hace 4 dias y no se nada ¿pueden decirme como va?,seguimiento_reparacion
+estoy buscando un celular de gama alta,consulta_producto
+Me cambiaron la pantalla y quedó mala quiero que la revisen de nuevo,solicitud_garantia_cambio
+Mi cel se calienta mucho podrian revisar por que?,consulta_servicio_tecnico
+Buenas tardes ¿están atendiendo?,saludo_cierre
+El case MagSafe no carga los imanes no jalan bien,queja_producto_servicio
+Manejan power bank compatible con MagSafe?,consulta_producto
+Buenos dias alguien despierto?,saludo_cierre
+Cuánto sale la mica trasera para el 14 Pro Max?,consulta_precio
+La mica se despego de una esquina al segundo dia,queja_producto_servicio
+Tienen protector para el iPhone 13 mini?,consulta_producto
+A cuánto me sale la mica normal para el 13?,consulta_precio
+Hacen diagnostico gratis o tiene costo?,consulta_servicio_tecnico
+El case llegó sin la caja y sin accesorios,queja_producto_servicio
+Cuánto tiempo más falta para que esté listo,seguimiento_reparacion
+Muchas gracias por la rapidez,saludo_cierre
+¿A cuanto me saldria el 16 Pro Max 256GB?,consulta_precio
+¿Cuánto tiempo de garantía tienen los accesorios?,solicitud_garantia_cambio
+Me pueden confirmar si ya terminaron con mi equipo?,seguimiento_reparacion
+Llevo una semana esperando y nadie me da respuesta,escalamiento_urgente
+¿Cuánto tiempo más falta para que esté listo?,seguimiento_reparacion
+cuanto se demoraran en arreglarlo?,seguimiento_reparacion
+Cuanto esta el iPhone 12 reacondicionado?,consulta_precio
+puedo al menos contactar con alguna persona?,escalamiento_urgente
+Mi cel cayó y la pantalla quedó rajada ¿cuánto me sale arreglarlo?,consulta_servicio_tecnico
+¿Que accesorios tienen para el iPhone 12?,consulta_producto
+Esto ya es demasiado quiero solución inmediata,escalamiento_urgente
+Quiero que revisen mi cel la reparacion no quedo bien,solicitud_garantia_cambio
+Aplica la garantía si fue un defecto de fábrica?,solicitud_garantia_cambio
+Cuanto tiempo de garantia dan por reparacion?,consulta_servicio_tecnico
+Venden cargadores originales Apple?,consulta_producto
+Cambian conector de carga tipo USB-C?,consulta_servicio_tecnico
+llego roto,queja_producto_servicio
+Me dijeron un precio y en la boleta salio mas caro,queja_producto_servicio
+A cuanto la mica completa para el 14 Pro,consulta_precio
+Quiero hablar con el gerente ahora mismo,escalamiento_urgente
+Mi cel salió con menos batería después del cambio,queja_producto_servicio
+Me devolvieron el cel mas rayado de como lo deje,queja_producto_servicio
+Necesito hablar con alguien que realmente pueda ayudarme,escalamiento_urgente

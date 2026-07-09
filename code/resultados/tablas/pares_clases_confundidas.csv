@@ -1,0 +1,17 @@
+Confusiones totales,Clase A,Clase B,A→B,B→A
+6,queja_producto_servicio,seguimiento_reparacion,2,4
+4,escalamiento_urgente,solicitud_garantia_cambio,1,3
+4,escalamiento_urgente,seguimiento_reparacion,0,4
+4,consulta_precio,queja_producto_servicio,3,1
+4,consulta_precio,consulta_servicio_tecnico,2,2
+4,consulta_precio,consulta_producto,2,2
+3,consulta_producto,consulta_servicio_tecnico,1,2
+2,consulta_servicio_tecnico,solicitud_garantia_cambio,2,0
+2,consulta_servicio_tecnico,queja_producto_servicio,2,0
+2,consulta_producto,seguimiento_reparacion,0,2
+2,consulta_producto,saludo_cierre,2,0
+2,consulta_producto,queja_producto_servicio,0,2
+1,saludo_cierre,seguimiento_reparacion,1,0
+1,queja_producto_servicio,solicitud_garantia_cambio,0,1
+1,consulta_producto,escalamiento_urgente,1,0
+1,consulta_precio,solicitud_garantia_cambio,1,0

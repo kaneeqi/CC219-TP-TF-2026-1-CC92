@@ -1,0 +1,11 @@
+Mensaje,Clase predicha (sin escalamiento_urgente),Confianza,¿Regla lo atrapa?
+Quiero hablar con el encargado por favor,solicitud_garantia_cambio,0.95,Sí
+Esto es un abuso ya me tienen cansado,consulta_producto,0.95,NO
+Me pueden comunicar con alguien que me solucione esto,seguimiento_reparacion,0.36,NO
+Necesito hablar con una persona no con un bot,solicitud_garantia_cambio,0.72,Sí
+"esto ya es el tercer reclamo, necesito hablar con un supervisor",solicitud_garantia_cambio,0.72,Sí
+por favor pasenme con alguien que si pueda resolver esto,saludo_cierre,0.61,NO
+"estoy realmente cansado de este maltrato, quiero una solucion ya",solicitud_garantia_cambio,0.95,Sí
+necesito que alguien se haga cargo de mi caso ahora mismo,solicitud_garantia_cambio,0.29,Sí
+"ya no quiero hablar con el chat automatico, quiero una persona",solicitud_garantia_cambio,0.95,Sí
+necesito una respuesta inmediata de un encargado,solicitud_garantia_cambio,0.72,Sí
